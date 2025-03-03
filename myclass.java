@@ -6,7 +6,7 @@ class myclass{
 
 	myclass(){
 		count++;
-} //constructor
+	} //constructor
 
 	public void v_final(){
 		System.out.println("The final value of count and pi are: "+count+" and "+pi+" respectively");
